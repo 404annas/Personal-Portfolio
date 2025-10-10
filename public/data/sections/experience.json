@@ -1,0 +1,196 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Experience",
+                "title_short_nav": "Experience",
+                "title_long_prefix": "Summary of my",
+                "title_long": "{{Work}} Experience"
+            },
+            "es": {
+                "title_short": "Experiencia",
+                "title_short_nav": "Experiencia",
+                "title_long_prefix": "Resumen de mi",
+                "title_long": "Experiencia {{Laboral}}"
+            },
+            "fr": {
+                "title_short": "Expérience",
+                "title_short_nav": "Expérience",
+                "title_long_prefix": "Résumé de mon",
+                "title_long": "Parcours {{Professionel}}"
+            },
+            "ko": {
+                "title_short": "경험",
+                "title_short_nav": "경험",
+                "title_long_prefix": "이것은 내",
+                "title_long": "{{직업적}} 경험"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "dateStart"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5uVXspOVGzG8uR1yJe4ClGCDKYkODwrmrrw&s",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2022,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "now": true
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Personal}} Development",
+                            "province": "",
+                            "country": "Pakistan",
+                            "institution": "Personal",
+                            "text": "Continuously enhancing my skills in the MERN stack — MongoDB, Express, React, and NodeJS — by building real-world projects and exploring modern development practices.",
+                            "list": [
+                                "Creating REST APIs for scalable and secure applications.",
+                                "Integrating 3rd Party Services to add advanced features and improve user experience.",
+                                "Learning React Native for mobile app development to expand my full-stack capabilities.",
+                                "Staying updated with the latest trends in JavaScript and web technologies to deliver efficient, high-quality solutions."
+                            ],
+                            "tags": [
+                                "MongoDB",
+                                "Express",
+                                "React",
+                                "NodeJS",
+                                "React Native",
+                                "REST APIs",
+                                "3rd Party Services",
+                                "etc..."
+                            ]
+                        },
+                        "es": {
+                            "title": "Desarrollador {{Backend}}",
+                            "province": "Toronto",
+                            "country": "Canadá",
+                            "institution": "Sapphire Studio",
+                            "text": "Desarrollé y mantuve [[sistemas backend escalables]] para varios clientes, optimizando el rendimiento de bases de datos e implementando APIs RESTful para mejorar la funcionalidad de las aplicaciones.",
+                            "list": [],
+                            "tags": []
+                        },
+                        "fr": {
+                            "title": "Développeur {{Backend}}",
+                            "province": "Toronto",
+                            "country": "Canada",
+                            "institution": "Sapphire Studio",
+                            "text": "Développement et maintenance de [[systèmes backend évolutifs]] pour divers clients, optimisation des performances des bases de données et mise en place d’API RESTful pour améliorer les fonctionnalités des applications.",
+                            "list": [],
+                            "tags": []
+                        },
+                        "ko": {
+                            "title": "{{백엔드}} 개발자",
+                            "province": "토론토",
+                            "country": "캐나다",
+                            "institution": "Sapphire Studio",
+                            "text": "다양한 클라이언트를 위한 [[확장 가능한 백엔드 시스템]]을 개발하고 유지보수했으며, 데이터베이스 성능을 최적화하고 RESTful API를 구현하여 애플리케이션 기능을 향상시켰습니다.",
+                            "list": [],
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "https://cdn.theorg.com/2328facf-1a74-407b-bbd6-ea759445f92d_thumb.jpg",
+                    "faIcon": "fa-brands fa-apple",
+                    "faIconColors": {
+                        "bg": "#111",
+                        "fill": "#EEE"
+                    },
+                    "dateStart": {
+                        "year": 2025,
+                        "month": 3
+                    },
+                    "dateEnd": {
+                        "now": true
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Full Stack}} Developer",
+                            "province": "",
+                            "country": "Pakistan",
+                            "institution": "Techxudo",
+                            "text": "As an Associate MERN Stack Developer, I collaborate with a team of developers to design and implement robust backend and frontend solutions with a focus on:",
+                            "list": [
+                                "Security and reliable user authentication using modern practices.",
+                                "Scalability to handle thousands of active users efficiently.",
+                                "Building full-stack web applications with React, Express, Node.js, and MongoDB.",
+                                "Optimizing frontend & database performance with MongoDB and Mongoose.",
+                                "Building full-stack web applications with React, Express, Node.js, and MongoDB."
+                            ],
+                            "tags": [
+                                "MongoDB",
+                                "Express",
+                                "React",
+                                "NodeJS",
+                                "REST APIs",
+                                "3rd Party Services"
+                            ]
+                        },
+                        "es": {
+                            "title": "Desarrollador {{Senior Backend}}",
+                            "province": "California",
+                            "country": "EE. UU.",
+                            "institution": "Apple Inc",
+                            "text": "Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:",
+                            "list": [
+                                "Seguridad",
+                                "Escalabilidad para manejar millones de usuarios a nivel global",
+                                "Desarrollo de APIs RESTful",
+                                "Optimización del rendimiento de bases de datos con PostgreSQL",
+                                "Creación de servicios con Swift, PHP y GraphQL"
+                            ],
+                            "tags": []
+                        },
+                        "fr": {
+                            "title": "Développeur {{Senior Backend}}",
+                            "province": "Californie",
+                            "country": "États-Unis",
+                            "institution": "Apple Inc",
+                            "text": "Responsable d'une équipe de développeurs pour concevoir et mettre en œuvre des solutions backend pour les services Apple, en se concentrant sur :",
+                            "list": [
+                                "La sécurité",
+                                "L’évolutivité pour gérer des millions d’utilisateurs dans le monde",
+                                "Le développement d’API RESTful",
+                                "L’optimisation des performances des bases de données avec PostgreSQL",
+                                "La création de services avec Swift, PHP et GraphQL"
+                            ],
+                            "tags": []
+                        },
+                        "ko": {
+                            "title": "{{시니어 백엔드}} 개발자",
+                            "province": "캘리포니아",
+                            "country": "미국",
+                            "institution": "Apple Inc",
+                            "text": "Apple의 서비스를 위한 백엔드 솔루션을 설계하고 구현하는 개발팀을 이끌며 다음에 중점을 두고 있습니다:",
+                            "list": [
+                                "보안",
+                                "전 세계 수백만 사용자를 처리할 수 있는 확장성",
+                                "RESTful API 개발",
+                                "PostgreSQL을 사용한 데이터베이스 성능 최적화",
+                                "Swift, PHP, GraphQL로 서비스 구축"
+                            ],
+                            "tags": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
