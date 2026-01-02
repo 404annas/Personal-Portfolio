@@ -55,8 +55,8 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Website}} development",
-                            "text": "I can turn your best ideas into life and make them a reality!"
+                            "title": "{{Full Stack}} Development",
+                            "text": "I turn your ideas into real, high-quality websites and full-stack web applications!"
                         },
                         "es": {
                             "title": "{{Diseño}} de websites",
@@ -91,7 +91,7 @@
                     "locales": {
                         "en": {
                             "title": "{{App}} development",
-                            "text": "I can make creative and innovative apps using react native!"
+                            "text": "From idea to launch, I create scalable and user-friendly mobile apps with React Native."
                         },
                         "es": {
                             "title": "Creación de {{aplicaciones}}",
@@ -125,8 +125,8 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Frontend}} development",
-                            "text": "I can bring your ideas into reality by code!"
+                            "title": "{{Frontend, Backend, DB}} development",
+                            "text": "I turn your ideas into fully functional, scalable applications using clean and efficient code."
                         },
                         "es": {
                             "title": "APIs {{REST}}",
@@ -160,8 +160,8 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Backend}} development",
-                            "text": "I can create secure & handle your data effectively and efficiently!"
+                            "title": "{{Cloud}} deployment",
+                            "text": "I deploy secure, scalable applications and manage your data efficiently with modern cloud practices."
                         },
                         "es": {
                             "title": "Gestión de {{bases de datos}}",
@@ -174,144 +174,6 @@
                         "ko": {
                             "title": "{{데이터베이스}} 관리",
                             "text": "데이터를 효과적이고 효율적으로 처리할 수 있습니다. 최고의 관행을 사용하여 데이터베이스를 관리합니다!"
-                        }
-                    }
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "component": "ArticleSkills",
-            "locales": {
-                "en": {
-                    "title": "Backend Stack"
-                },
-                "es": {
-                    "title": "Stack de Backend"
-                },
-                "fr": {
-                    "title": "Stack Backend"
-                },
-                "zh": {
-                    "title": "后端技术栈"
-                }
-            },
-            "settings": {
-                "max_items_per_row": 3,
-                "max_rows_collapse_threshold": 6,
-                "order_items_by": "percentage",
-                "order_items_sort": "desc",
-                "round_icons": false
-            },
-            "items": [
-                {
-                    "id": 1,
-                    "img": "",
-                    "faIcon": "fa-brands fa-node-js",
-                    "faIconColors": {
-                        "bg": "",
-                        "fill": "#339933"
-                    },
-                    "date": {
-                        "year": 2025,
-                        "month": 3
-                    },
-                    "percentage": 80,
-                    "locales": {
-                        "en": {
-                            "title": "Node.js",
-                            "text": "Build scalable backend using Node.js.",
-                            "level": ""
-                        },
-                        "es": {
-                            "text": "Desarrollador certificado por la Fundación Node.js."
-                        },
-                        "fr": {
-                            "text": "Développeur certifié par la Node.js Foundation."
-                        },
-                        "ko": {
-                            "text": "Node.js 재단 인증 개발자."
-                        }
-                    }
-                },
-                {
-                    "id": 7,
-                    "img": "",
-                    "faIcon": "fa-brands fa-python",
-                    "faIconColors": {
-                        "bg": "",
-                        "fill": "#306998"
-                    },
-                    "date": {
-                        "year": 2025,
-                        "month": 6
-                    },
-                    "percentage": 50,
-                    "locales": {
-                        "en": {
-                            "title": "Python",
-                            "text": "Started learning & exploring python.",
-                            "level": ""
-                        },
-                        "es": {
-                            "text": "Análisis de datos y aprendizaje automático con Python."
-                        },
-                        "fr": {
-                            "text": "Analyse de données et apprentissage automatique avec Python."
-                        },
-                        "ko": {
-                            "text": "Python을 사용한 데이터 분석 및 기계 학습."
-                        }
-                    }
-                },
-                {
-                    "id": 9,
-                    "img": "",
-                    "faIcon": "fa-solid fa-server",
-                    "faIconColors": {
-                        "bg": "",
-                        "fill": "#47A248"
-                    },
-                    "date": {
-                        "year": 2025,
-                        "month": 3
-                    },
-                    "percentage": 80,
-                    "locales": {
-                        "en": {
-                            "title": "MongoDB",
-                            "text": "Build scalable & optimize databases.",
-                            "level": ""
-                        }
-                    }
-                },
-                {
-                    "id": 10,
-                    "img": "",
-                    "faIcon": "fa-brands fa-git",
-                    "faIconColors": {
-                        "bg": "",
-                        "fill": "#F05032"
-                    },
-                    "date": {
-                        "year": 2024,
-                        "month": 1
-                    },
-                    "percentage": 70,
-                    "locales": {
-                        "en": {
-                            "title": "Git",
-                            "text": "Complete understanding of Git for version control and collaboration.",
-                            "level": ""
-                        },
-                        "es": {
-                            "text": "Comprensión completa de Git para control de versiones y colaboración."
-                        },
-                        "fr": {
-                            "text": "Compréhension complète de Git pour le contrôle de version et la collaboration."
-                        },
-                        "ko": {
-                            "text": "버전 관리 및 협업을 위한 Git에 대한 완전한 이해."
                         }
                     }
                 }
@@ -359,17 +221,8 @@
                     "locales": {
                         "en": {
                             "title": "JavaScript ES6+",
-                            "text": "Mastered JavaScript ES6+ for dynamic and interactive web applications.",
+                            "text": "Strong command of JavaScript ES6+ for building dynamic and interactive web applications.",
                             "level": ""
-                        },
-                        "es": {
-                            "text": "Dominio de JavaScript ES6+ para aplicaciones web dinámicas e interactivas."
-                        },
-                        "fr": {
-                            "text": "Maîtrisé JavaScript ES6+ pour des applications web dynamiques et interactives."
-                        },
-                        "ko": {
-                            "text": "동적이고 대화형 웹 애플리케이션을 위한 JavaScript ES6+를 마스터했습니다."
                         }
                     }
                 },
@@ -383,24 +236,58 @@
                         "fillLight": "#317385"
                     },
                     "date": {
-                        "year": 2024,
+                        "year": 2023,
                         "month": 8
                     },
                     "percentage": 90,
                     "locales": {
                         "en": {
-                            "title": "React",
-                            "text": "Complete understanding of React for building modern web applications with state managemnent libraries.",
+                            "title": "React.js",
+                            "text": "Advanced understanding of React.js for building modern and scalable web interfaces.",
                             "level": ""
-                        },
-                        "es": {
-                            "text": "Comprensión completa de React para construir aplicaciones web modernas."
-                        },
-                        "fr": {
-                            "text": "Compréhension complète de React pour créer des applications web modernes."
-                        },
-                        "ko": {
-                            "text": "최신 웹 애플리케이션 구축을 위한 React에 대한 완전한 이해."
+                        }
+                    }
+                },
+                {
+                    "id": 11,
+                    "img": "",
+                    "faIcon": "fa-brands fa-react",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#000000",
+                        "fillLight": "#ffffff"
+                    },
+                    "date": {
+                        "year": 2024,
+                        "month": 9
+                    },
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "Next.js",
+                            "text": "Building fast, SEO-friendly, and production-ready web applications using Next.js.",
+                            "level": ""
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": "",
+                    "faIcon": "fa-brands fa-css",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#7952B3"
+                    },
+                    "date": {
+                        "year": 2023,
+                        "month": 1
+                    },
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Tailwind CSS",
+                            "text": "Expert-level understanding of Tailwind CSS for clean and responsive UI design.",
+                            "level": ""
                         }
                     }
                 },
@@ -421,47 +308,251 @@
                     "locales": {
                         "en": {
                             "title": "React Native",
-                            "text": "Learning and understanding React-Native for building interactive apps.",
+                            "text": "Learning React Native to build cross-platform mobile applications.",
                             "level": ""
-                        },
-                        "es": {
-                            "text": "Buena comprensión de Vue.js para construir interfaces de usuario interactivas."
-                        },
-                        "fr": {
-                            "text": "Bonne compréhension de Vue.js pour créer des interfaces utilisateur interactives."
-                        },
-                        "ko": {
-                            "text": "대화형 사용자 인터페이스 구축을 위한 Vue.js에 대한 좋은 이해."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Backend Stack"
+                },
+                "es": {
+                    "title": "Stack de Backend"
+                },
+                "fr": {
+                    "title": "Stack Backend"
+                },
+                "zh": {
+                    "title": "后端技术栈"
+                }
+            },
+            "settings": {
+                "max_items_per_row": 3,
+                "max_rows_collapse_threshold": 6,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-brands fa-node-js",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#339933"
+                    },
+                    "date": {
+                        "year": 2024,
+                        "month": 7
+                    },
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Node.js",
+                            "text": "Building scalable and efficient backend services using Node.js.",
+                            "level": ""
                         }
                     }
                 },
                 {
-                    "id": 6,
+                    "id": 2,
                     "img": "",
-                    "faIcon": "fa-brands fa-css",
+                    "faIcon": "fa-solid fa-server",
                     "faIconColors": {
                         "bg": "",
-                        "fill": "#7952B3"
+                        "fill": "#47A248"
                     },
                     "date": {
-                        "year": 2023,
-                        "month": 1
+                        "year": 2024,
+                        "month": 7
                     },
-                    "percentage": 100,
+                    "percentage": 80,
                     "locales": {
                         "en": {
-                            "title": "Tailwind Css",
-                            "text": "Expert level of understanding of Tailwind for responsive design.",
+                            "title": "Express.js",
+                            "text": "Developing clean and secure RESTful APIs using Express.js.",
                             "level": ""
-                        },
-                        "es": {
-                            "text": "Buena comprensión de Bootstrap para diseño receptivo."
-                        },
-                        "fr": {
-                            "text": "Bonne compréhension de Bootstrap pour le design réactif."
-                        },
-                        "ko": {
-                            "text": "반응형 디자인을 위한 Bootstrap에 대한 좋은 이해."
+                        }
+                    }
+                },
+                {
+                    "id": 9,
+                    "img": "",
+                    "faIcon": "fa-brands fa-envira",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#47A248"
+                    },
+                    "date": {
+                        "year": 2024,
+                        "month": 7
+                    },
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "MongoDB",
+                            "text": "Designing scalable and optimized NoSQL databases using MongoDB and Mongoose.",
+                            "level": ""
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "img": "",
+                    "faIcon": "fa-brands fa-python",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#306998"
+                    },
+                    "date": {
+                        "year": 2025,
+                        "month": 6
+                    },
+                    "percentage": 50,
+                    "locales": {
+                        "en": {
+                            "title": "Python",
+                            "text": "Currently learning Python for backend scripting and automation.",
+                            "level": ""
+                        }
+                    }
+                },
+                {
+                    "id": 10,
+                    "img": "",
+                    "faIcon": "fa-brands fa-git",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#F05032"
+                    },
+                    "date": {
+                        "year": 2024,
+                        "month": 1
+                    },
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Git",
+                            "text": "Using Git for version control, collaboration, and project management.",
+                            "level": ""
+                        }
+                    }
+                },
+                {
+                    "id": 11,
+                    "img": "",
+                    "faIcon": "fa-brands fa-github",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#ffffff"
+                    },
+                    "date": {
+                        "year": 2024,
+                        "month": 1
+                    },
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "GitHub",
+                            "text": "Using GitHub for version control, collaboration, and project management.",
+                            "level": ""
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Deployment & DevOps"
+                },
+                "es": {
+                    "title": "Despliegue y DevOps"
+                },
+                "fr": {
+                    "title": "Déploiement & DevOps"
+                },
+                "zh": {
+                    "title": "部署与运维"
+                }
+            },
+            "settings": {
+                "max_items_per_row": 3,
+                "max_rows_collapse_threshold": 6,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-solid fa-cloud",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#0ea5e9"
+                    },
+                    "date": {
+                        "year": 2025,
+                        "month": 10
+                    },
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Cloud Deployment",
+                            "text": "Deploying applications on Vercel, Netlify, DigitalOcean, Linode, and Hostinger.",
+                            "level": ""
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-brands fa-github",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#ffffff"
+                    },
+                    "date": {
+                        "year": 2025,
+                        "month": 10
+                    },
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "GitHub Actions",
+                            "text": "Setting up automated CI/CD pipelines using GitHub Actions for seamless deployments.",
+                            "level": ""
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fa-solid fa-network-wired",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#64748b"
+                    },
+                    "date": {
+                        "year": 2025,
+                        "month": 10
+                    },
+                    "percentage": 70,
+                    "locales": {
+                        "en": {
+                            "title": "FTP & Server Setup",
+                            "text": "Configuring FTP servers and automated deployments for shared and VPS hosting.",
+                            "level": ""
                         }
                     }
                 }

@@ -126,18 +126,19 @@
                             "province": "",
                             "country": "Pakistan",
                             "institution": "Techxudo",
-                            "text": "As an Associate MERN Stack Developer, I collaborate with a team of developers to design and implement robust backend and frontend solutions with a focus on:",
+                            "text": "As a junior Full Stack Developer, I collaborate with a team of developers to design and implement robust backend and frontend solutions with a focus on:",
                             "list": [
-                                "Security and reliable user authentication using modern practices.",
-                                "Scalability to handle thousands of active users efficiently.",
-                                "Building full-stack web applications with React, Express, Node.js, and MongoDB.",
-                                "Optimizing frontend & database performance with MongoDB and Mongoose.",
-                                "Building full-stack web applications with React, Express, Node.js, and MongoDB."
+                                "Building full-stack web applications with React.js, Next.js Express.js, Node.js, and MongoDB.",
+                                "Scalable systems built to support business growth and increasing users.",
+                                "Secure authentication and user management for modern web applications.",
+                                "Performance optimization for fast, smooth user experiences.",
+                                "Clean and maintainable backend APIs with efficient data handling."
                             ],
                             "tags": [
                                 "MongoDB",
-                                "Express",
-                                "React",
+                                "Express.js",
+                                "React.js",
+                                "Next.js",
                                 "NodeJS",
                                 "REST APIs",
                                 "3rd Party Services"

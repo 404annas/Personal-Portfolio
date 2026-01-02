@@ -109,7 +109,7 @@
                     "faIcon": "fa-brands fa-linkedin",
                     "faIconColors": { "bg": "", "fill": "" },
                     "label": "@muhammadannaskhan",
-                    "link": {"href": "https://www.linkedin.com/in/muhammad-annas-khan-a17b6a266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "tooltipString": "open_linkedin"},
+                    "link": {"href": "https://www.linkedin.com/in/muhammad-annaskhan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "tooltipString": "open_linkedin"},
                     "locales": {
                         "en": {"title": "LinkedIn"},
                         "ko": {"title": "링크드인"}
@@ -122,7 +122,7 @@
                     "label": "Annas Khan",
                     "link": {"href": "https://github.com/404annas", "tooltipString": "open_github"},
                     "locales": {
-                        "en": {"title": "Facebook"},
+                        "en": {"title": "GitHub"},
                         "ko": {"title": "페이스북"}
                     }
                 }
